@@ -14,7 +14,8 @@ const COMPONENTS = [
 ];
 
 const MODULES = [
-  ReactiveFormsModule
+  ReactiveFormsModule,
+  RouterOutlet
 ];
 
 @Component({
